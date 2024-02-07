@@ -1,0 +1,117 @@
+2024-02-07 09:31:04,615 - INFO - Serial: {serial_extraido}
+2024-02-07 09:31:04,615 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:31:04,615 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:31:04,615 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:31:04,615 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:31:04,615 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:31:04,615 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:31:04,615 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:31:04,615 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:31:29,515 - INFO - Serial: {serial_extraido}
+2024-02-07 09:31:29,516 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:31:29,516 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:31:29,516 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:31:29,517 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:31:29,517 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:31:29,517 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:31:29,517 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:31:29,517 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:31:35,683 - INFO - Serial: {serial_extraido}
+2024-02-07 09:31:35,683 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:31:35,683 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:31:35,683 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:31:35,683 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:31:35,683 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:31:35,683 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:31:35,684 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:31:35,684 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:31:47,834 - INFO - Serial: {serial_extraido}
+2024-02-07 09:31:47,834 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:31:47,834 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:31:47,834 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:31:47,834 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:31:47,834 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:31:47,834 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:31:47,834 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:31:47,834 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:32:50,057 - INFO - Serial: {serial_extraido}
+2024-02-07 09:32:50,057 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:32:50,057 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:32:50,057 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:32:50,057 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:32:50,057 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:32:50,057 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:32:50,057 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:32:50,057 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:36:08,853 - INFO - Serial: {serial_extraido}
+2024-02-07 09:36:08,853 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:36:08,853 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:36:08,853 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:36:08,853 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:36:08,853 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:36:08,853 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:36:08,853 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:36:08,853 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:39:33,669 - INFO - Serial: {serial_extraido}
+2024-02-07 09:39:33,669 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:39:33,669 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:39:33,669 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:39:33,669 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:39:33,669 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:39:33,669 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:39:33,669 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:39:33,669 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:39:37,927 - INFO - Serial: {serial_extraido}
+2024-02-07 09:39:37,927 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:39:37,927 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:39:37,927 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:39:37,927 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:39:37,927 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:39:37,927 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:39:37,927 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:39:37,927 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:39:47,263 - INFO - Serial: {serial_extraido}
+2024-02-07 09:39:47,263 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:39:47,263 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:39:47,263 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:39:47,263 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:39:47,263 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:39:47,263 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:39:47,263 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:39:47,263 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:50:42,772 - INFO - Serial: {serial_extraido}
+2024-02-07 09:50:42,772 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:50:42,772 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:50:42,772 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:50:42,772 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:50:42,772 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:50:42,772 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:50:42,772 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:50:42,772 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:51:16,784 - INFO - Serial: {serial_extraido}
+2024-02-07 09:51:16,784 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:51:16,784 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:51:16,784 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:51:16,784 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:51:16,784 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:51:16,784 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:51:16,784 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:51:16,784 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:53:19,295 - INFO - Serial: {serial_extraido}
+2024-02-07 09:53:19,295 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:53:19,295 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:53:19,295 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:53:19,295 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:53:19,295 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:53:19,295 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:53:19,295 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:53:19,295 - INFO - StatusONT:{dispositivostatus}
+2024-02-07 09:55:32,558 - INFO - Serial: {serial_extraido}
+2024-02-07 09:55:32,558 - INFO - Modelo: {modelo_extraido}
+2024-02-07 09:55:32,558 - INFO - Firmware:{firmware_extraido}
+2024-02-07 09:55:32,558 - INFO - CPU:{cpu_extraido}
+2024-02-07 09:55:32,558 - INFO - Memoria:{mem_extraido}
+2024-02-07 09:55:32,558 - INFO - FirmwareStatus:{estado_firmware}
+2024-02-07 09:55:32,558 - INFO - RXOptical: {estado_rx}
+2024-02-07 09:55:32,558 - INFO - TXOptical:{estado_tx}
+2024-02-07 09:55:32,558 - INFO - StatusONT:{dispositivostatus}
